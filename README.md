@@ -9,3 +9,4 @@ Projet de création de formulaire dans le cadre de la formation BeCode. Apprenti
 - Mise en place du PHP pour récupérer les données du formulaire
 - Sécurisation des champs
 - Création du CSS et adaptation du style visuel de ma page
+- Réglage de détails visuels (text area dont la size était modifiable, ...)
