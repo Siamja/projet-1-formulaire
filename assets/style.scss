@@ -1,0 +1,52 @@
+@font-face {
+    font-family: 'bellotaregular';
+    src: url('assets/fonts/Bellota-Regular-webfont.eot');
+    src: url('assets/fonts/Bellota-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('assets/fonts/Bellota-Regular-webfont.woff2') format('woff2'),
+         url('assets/fonts/Bellota-Regular-webfont.woff') format('woff'),
+         url('assets/fonts/Bellota-Regular-webfont.ttf') format('truetype'),
+         url('assets/fonts/Bellota-Regular-webfont.svg#bellotaregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+$style1 : bold;
+
+body {
+   background: linear-gradient(#fff, #15c5bd, #303030);
+   font-family: 'bellotaregular';
+
+}
+
+
+
+.formulaire {
+    text-align: center;
+    font-family: 'bellotaregular';
+}
+
+
+
+#nom {
+    font-weight: $style1;
+}
+
+#prenom {
+    font-weight: $style1;
+}
+
+#mail {
+    font-weight: $style1;
+} 
+
+#pays {
+    font-weight: $style1;
+}
+
+#telephone {
+    font-weight: $style1;
+}
+
+#message {
+    font-weight: $style1;
+}
