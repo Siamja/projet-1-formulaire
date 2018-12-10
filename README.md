@@ -10,3 +10,4 @@ Projet de création de formulaire dans le cadre de la formation BeCode. Apprenti
 - Sécurisation des champs
 - Création du CSS et adaptation du style visuel de ma page
 - Réglage de détails visuels (text area dont la size était modifiable, ...)
+- Pas temriné : test mail, honey pot (lecture de documentation mais pas toruvé comment implanter)
